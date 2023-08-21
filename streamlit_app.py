@@ -1,8 +1,7 @@
 import streamlit as st
 from PIL import Image
-import ultralytics
-from ultralytics import YOLO
-import time
+#import ultralytics
+#from ultralytics import YOLO
 
 st.title('Aloe Vera Plant Disease Analyser')
 
