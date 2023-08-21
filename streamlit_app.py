@@ -1,5 +1,6 @@
 import streamlit as st
 from PIL import Image
+import ultralytics
 from ultralytics import YOLO
 import time
 
